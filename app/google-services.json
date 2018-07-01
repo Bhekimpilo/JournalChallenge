@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "366128956730",
+    "firebase_url": "https://payeasy-4ad7d.firebaseio.com",
+    "project_id": "payeasy-4ad7d",
+    "storage_bucket": "payeasy-4ad7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366128956730:android:7a75bef0d8f54300",
+        "android_client_info": {
+          "package_name": "com.example.iis.journalchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366128956730-0115jlgaaaaov5r059sufhg6fo4s00br.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iis.journalchallenge",
+            "certificate_hash": "fcbfdfa93758a585d1ed1690e903adc0ae3f144b"
+          }
+        },
+        {
+          "client_id": "366128956730-cv3pjl6ureuafki0a14vhnulo98dvtih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChmDz1zDzoBBMIoAZE3UGPkN4yfOYZO70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366128956730-cv3pjl6ureuafki0a14vhnulo98dvtih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366128956730:android:03ff9cc8300557d5",
+        "android_client_info": {
+          "package_name": "com.legacy.payeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366128956730-cv3pjl6ureuafki0a14vhnulo98dvtih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChmDz1zDzoBBMIoAZE3UGPkN4yfOYZO70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
